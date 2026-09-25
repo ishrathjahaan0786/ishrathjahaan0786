@@ -82,6 +82,6 @@ real-world codebases, and making meaningful contributions to the community.
 
 ## Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ishrathjahaan0786)
-- 📧 Email: [YOUR_EMAIL@gmail.com](mailto:ishrathjahaan0786@gmail.com)
+- 💼 LinkedIn: [ishrathjahaan0786](www.linkedin.com/in/ishrathjahaan0786)
+- 📧 Email: [ishrathjahaan0786@gmail.com](mailto:ishrathjahaan0786@gmail.com)
 - 💻 GitHub: [ishrathjahan0786](https://github.com/ishrathjahan0786)
